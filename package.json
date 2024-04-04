@@ -1,0 +1,18 @@
+{
+  "name": "animecrt-backend",
+  "version": "1.0.0",
+  "description": "a backend for anime website that do lot of other stuff and test backend skill mainly for my future anime streaming site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "anime",
+    "streaming",
+    "youtube"
+  ],
+  "author": "BlueEnd07",
+  "license": "ISC"
+}
