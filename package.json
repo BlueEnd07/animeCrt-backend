@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "a backend for anime website that do lot of other stuff and test backend skill mainly for my future anime streaming site",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "js",
@@ -14,5 +15,9 @@
     "youtube"
   ],
   "author": "BlueEnd07",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
 }
