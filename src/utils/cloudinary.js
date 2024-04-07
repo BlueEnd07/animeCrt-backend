@@ -27,4 +27,4 @@ const uploadoncloud = async (filepath)=>{
 }
 
 
-
+return {uploadoncloud}
